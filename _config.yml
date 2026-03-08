@@ -1,0 +1,15 @@
+title: Laura Malone
+description: Computer Science Capstone Portfolio
+
+remote_theme: pages-themes/modernist@v0.2.0
+
+plugins:
+  - jekyll-remote-theme
+
+nav:
+  - title: Home
+    url: /
+  - title: Artifacts
+    url: /artifacts/
+  - title: Contact
+    url: /contact/
