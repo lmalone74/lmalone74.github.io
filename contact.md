@@ -10,7 +10,7 @@ title: Contact
   <a href="/contact.html">Contact</a>
 </p>
 
-- GitHub: [Your GitHub Profile](https://github.com/Imalone74)
-- GitHub: https://github.com/RoseWise-Coding
+- GitHub: [Laura Malone](https://github.com/Imalone74)
+- GitHub: [Rosewise Coding](https://github.com/RoseWise-Coding)
 - Email: laura.malone1@snhu.edu
 - LinkedIn: www.linkedin.com/in/laura-malone-72572012
