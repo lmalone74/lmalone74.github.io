@@ -8,7 +8,18 @@ title: Laura Malone
   <a href="/contact/">Contact</a>
 </p>
 
+# Welcome
+
+Welcome to my Computer Science Capstone ePortfolio. This site presents my code review,
+artifacts, enhancements, and professional reflection developed throughout CS-499.
+
 <h2>Code Review Video</h2>
+
+<p>
+This video presents a review of my original artifacts, their limitations, and the
+enhancements planned to improve design, functionality, and usability. This video was 
+completed prior to enhancing the artifacts.
+</p>
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0;">
   <iframe src="https://www.youtube.com/embed/nID4TQa_uzw"
