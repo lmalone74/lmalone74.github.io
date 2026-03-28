@@ -15,7 +15,7 @@ title: Artifacts
 
 Add a short paragraph here explaining:
 - what the original artifact was
-- what you enhanced
+- what I enhanced
 - which course outcomes it demonstrates
 
 [View Artifact One](#)
@@ -25,7 +25,7 @@ Add a short paragraph here explaining:
 
 Add a short paragraph here explaining:
 - what the original artifact was
-- what you enhanced
+- what I enhanced
 - which course outcomes it demonstrates
 
 [View Artifact Two](#)
@@ -35,7 +35,7 @@ Add a short paragraph here explaining:
 
 Add a short paragraph here explaining:
 - what the original artifact was
-- what you enhanced
+- what I enhanced
 - which course outcomes it demonstrates
 
 [View Artifact Three](#)
