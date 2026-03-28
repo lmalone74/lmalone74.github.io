@@ -13,4 +13,4 @@ title: Contact
 - GitHub: [Laura Malone](https://github.com/Imalone74)
 - GitHub: [Rosewise Coding](https://github.com/RoseWise-Coding)
 - Email: laura.malone1@snhu.edu
-- LinkedIn: www.linkedin.com/in/laura-malone-72572012
+- LinkedIn: [Laura Malone](www.linkedin.com/in/laura-malone-72572012)
