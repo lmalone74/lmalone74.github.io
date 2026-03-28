@@ -2,8 +2,6 @@
 title: Laura Malone
 ---
 
-# Laura Malone
-
 <p>
   <a href="/">Home</a> |
   <a href="/artifacts/">Artifacts</a> |
