@@ -2,11 +2,11 @@
 title: Laura Malone
 ---
 
-<p>
+<p style="text-align: center; font-size: 18px;">
   <a href="/">Home</a> |
-  <a href="/artifacts/">Artifacts</a> |
-  <a href="/contact/">Contact</a>
-</p>
+  <a href="/artifacts.html">Artifacts</a> |
+  <a href="/contact.html">Contact</a>
+</p>>
 
 # Welcome
 
