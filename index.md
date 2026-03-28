@@ -6,8 +6,10 @@ title: Laura Malone
 
 <h2>Code Review Video</h2>
 
-<iframe width="900" height="500"
-src="https://www.youtube.com/embed/nID4TQa_uzw"
-frameborder="0"
-allowfullscreen>
-</iframe>
+<div style="position: relative; padding-bottom: 56.25%; height: 0;">
+  <iframe src="https://www.youtube.com/embed/nID4TQa_uzw"
+    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
+    frameborder="0"
+    allowfullscreen>
+  </iframe>
+</div>
