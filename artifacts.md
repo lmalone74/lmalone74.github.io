@@ -28,7 +28,7 @@ Add a short paragraph here explaining:
 - what I enhanced
 - which course outcomes it demonstrates
 
-[View Artifact Two](#)
+[View Artifact Two - Original Code](https://github.com/lmalone74/Artifact-Two-Airgead-Banking/tree/Original-Code)
 
 ## Artifact Three
 **Databases Enhancement**
