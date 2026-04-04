@@ -29,6 +29,7 @@ Add a short paragraph here explaining:
 - which course outcomes it demonstrates
 
 [View Artifact Two - Original Code](https://github.com/lmalone74/Artifact-Two-Airgead-Banking/tree/Original-Code)
+[View Artifact Two - Enhanced Code](https://github.com/lmalone74/Artifact-Two-Airgead-Banking/tree/Enhanced-Code)
 
 ## Artifact Three
 **Databases Enhancement**
