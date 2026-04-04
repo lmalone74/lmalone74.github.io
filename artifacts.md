@@ -18,7 +18,7 @@ Add a short paragraph here explaining:
 - what I enhanced
 - which course outcomes it demonstrates
 
-[View Artifact One](#)
+[View Artifact One - Orginal Code](https://github.com/lmalone74/Artifact-One-Farkle-Game/tree/Original-Code)
 
 ## Artifact Two
 **Algorithms and Data Structure Enhancement**
