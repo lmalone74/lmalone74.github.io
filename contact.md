@@ -6,7 +6,7 @@ title: Contact
 
 <p style="text-align: center; font-size: 18px;">
   <a href="/">Home</a> |
-  <a href="/artifact1.html">Artifacts</a> |
+  <a href="/artifact1.html">Artifacts Home</a> |
   <a href="/contact.html">Contact</a>
 </p>
 
