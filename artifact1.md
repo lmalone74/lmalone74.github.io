@@ -26,4 +26,4 @@ Add a short paragraph here explaining:
 
 [View Artifact One - Original Code](https://github.com/lmalone74/Artifact-One-Farkle-Game/tree/Original-Code)
 
-[View Artifact One - Original Code](https://github.com/lmalone74/Artifact-One-Farkle-Game/tree/Enhanced-Code)
+[View Artifact One - Enhanced Code](https://github.com/lmalone74/Artifact-One-Farkle-Game/tree/Enhanced-Code)
