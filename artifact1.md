@@ -14,7 +14,7 @@ title: Artifacts
   <a href="/artifact3.html">Artifact Three</a>
 </p>>
 
-# Artifact One
+# Artifact One - Farkle Game
 **Software Design / Engineering Enhancement**
 
 Add a short paragraph here explaining:
