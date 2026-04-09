@@ -25,4 +25,4 @@ Add a short paragraph here explaining:
 - which course outcomes it demonstrates
 
 [View Artifact One - Original Code](https://github.com/lmalone74/Artifact-One-Farkle-Game/tree/Original-Code)
-
+[View Artifact One - Original Code](https://github.com/lmalone74/Artifact-One-Farkle-Game/tree/Enhanced-Code)
