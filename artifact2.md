@@ -2,21 +2,19 @@
 title: Artifacts
 ---
 
-# Artifacts
-
 <p style="text-align: center; font-size: 18px;">
   <a href="/">Home</a> |
-  <a href="/artifacts.html">Artifacts</a> |
+  <a href="/artifact1.html">Artifacts Home</a> |
   <a href="/contact.html">Contact</a>
-</p>
+</p>>
 
 <p style="text-align: center; font-size: 16px;">
   <a href="/artifact1.html">Artifact One</a> |
   <a href="/artifact2.html">Artifact Two</a> |
   <a href="/artifact3.html">Artifact Three</a>
-</p>
+</p>>
 
-## Artifact Two - Airgead Banking
+# Artifact Two - Airgead Banking
 **Algorithms and Data Structure Enhancement**
 
 For the second artifact, I selected the Airgead Banking program from CS 210 (2024). It simulates investment growth using compound interest based on user inputs and generates reports with and without monthly deposits. The program demonstrates algorithmic logic and uses vectors to store yearly balances and interest, modeling financial growth through structured data and object-oriented programming in C++.
