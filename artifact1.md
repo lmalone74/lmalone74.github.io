@@ -14,9 +14,7 @@ title: Artifacts
   <a href="/artifact3.html">Artifact Three</a>
 </p>>
 
-# Artifacts
-
-## Artifact One
+# Artifact One
 **Software Design / Engineering Enhancement**
 
 Add a short paragraph here explaining:
