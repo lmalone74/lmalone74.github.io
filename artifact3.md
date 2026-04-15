@@ -15,7 +15,7 @@ title: Artifacts
 </p>>
 
 # Artifact Three - Grazioso Salvare Database
-**Databases Enhancement**
+**Database Enhancement**
 
 A full-stack dashboard application enhanced with secure database integration, modular architecture, and interactive data visualization to support efficient data management.
 >
