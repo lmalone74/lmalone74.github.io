@@ -23,3 +23,5 @@ Add a short paragraph here explaining:
 - which course outcomes it demonstrates
 
 [View Artifact Three - Original Code](https://github.com/lmalone74/Artifact-Three-Grazioso-Salvare/tree/Original-Code)
+
+[View Artifact Three - Enhanced Code](https://github.com/lmalone74/Artifact-Three-Grazioso-Salvare/tree/Enhanced-Code)
