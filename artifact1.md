@@ -19,7 +19,7 @@ title: Artifacts
 
 A C++ Farkle game enhanced from a console application into a Windows GUI with improved architecture and gameplay validation.
 >
-**[View Original Code (GitHub)](https://github.com/lmalone74/Artifact-One-Farkle-Game/tree/Original-Code) | [View Enhanced Code (GitHub)](https://github.com/lmalone74/Artifact-One-Farkle-Game/tree/Enhanced-Code)**
+### [View Original Code (GitHub)](https://github.com/lmalone74/Artifact-One-Farkle-Game/tree/Original-Code) | [View Enhanced Code (GitHub)](https://github.com/lmalone74/Artifact-One-Farkle-Game/tree/Enhanced-Code)
 >
 
 For this artifact, I selected the Farkle game developed in IT 312 (2025). The original program was a console-based application written in C++ that allowed multiple players to take turns rolling and banking dice, with the goal of reaching 10,000 points. The application was built using object-oriented programming, with classes such as Dice and Turn managing different aspects of the game logic.
