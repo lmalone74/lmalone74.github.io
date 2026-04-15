@@ -19,7 +19,7 @@ title: Artifacts
 
 A C++ financial application enhanced to support multiple investment scenarios, comparative analysis, and structured data output for improved decision-making.
 >
-### [View Artifact Two - Original Code](https://github.com/lmalone74/Artifact-Two-Airgead-Banking/tree/Original-Code) | [View Artifact Two - Enhanced Code](https://github.com/lmalone74/Artifact-Two-Airgead-Banking/tree/Enhanced-Code)
+### [View Original Code (GitHub)](https://github.com/lmalone74/Artifact-Two-Airgead-Banking/tree/Original-Code) | [View Enhanced Code (GitHub)](https://github.com/lmalone74/Artifact-Two-Airgead-Banking/tree/Enhanced-Code)
 >
 
 For the second artifact, I selected the Airgead Banking program from CS 210 (2024). It simulates investment growth using compound interest based on user inputs and generates reports with and without monthly deposits. The program demonstrates algorithmic logic and uses vectors to store yearly balances and interest, modeling financial growth through structured data and object-oriented programming in C++.
