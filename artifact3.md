@@ -14,7 +14,7 @@ title: Artifacts
   <a href="/artifact3.html">Artifact Three</a>
 </p>>
 
-# Artifact Three
+# Artifact Three - Grazioso Salvare Database
 **Databases Enhancement**
 
 A full-stack dashboard application enhanced with secure database integration, modular architecture, and interactive data visualization to support efficient data management.
