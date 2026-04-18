@@ -6,7 +6,6 @@ title: Artifacts
   <a href="/">Home</a> |
   <a href="/artifact1.html">Artifacts</a> |
   <a href="/projects.html">Projects</a> |
-  <a href="/selfassessment.html">Self-Assessment</a> |
   <a href="/contact.html">Contact</a>
 </p>>
 
@@ -14,7 +13,6 @@ title: Artifacts
 <p style="font-size: 14px;">
   Overview of enhancements, design decisions, and project outcomes.
 </p>
-
 <div style="width: 70%; min-width: 320px; margin: 20px 0 30px 0;">
   <div style="position: relative; padding-bottom: 56.25%; height: 0;">
     <iframe src="https://www.youtube.com/embed/nID4TQa_uzw"
