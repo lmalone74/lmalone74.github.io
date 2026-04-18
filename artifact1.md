@@ -10,7 +10,12 @@ title: Artifacts
   <a href="/contact.html">Contact</a>
 </p>>
 
-<div style="max-width: 600px; margin: 0 auto;">
+<h3>Capstone Code Review</h3>
+<p style="font-size: 14px;">
+  Overview of enhancements, design decisions, and project outcomes.
+</p>
+
+<div style="width: 70%; min-width: 320px; margin: 20px 0 30px 0;">
   <div style="position: relative; padding-bottom: 56.25%; height: 0;">
     <iframe src="https://www.youtube.com/embed/nID4TQa_uzw"
       title="Capstone Code Review Video"
