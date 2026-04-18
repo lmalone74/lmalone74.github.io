@@ -10,6 +10,23 @@ title: Artifacts
   <a href="/contact.html">Contact</a>
 </p>>
 
+<div style="max-width: 800px; margin: 0 auto;">
+  <div style="position: relative; padding-bottom: 56.25%; height: 0;">
+    <iframe src="https://www.youtube.com/embed/nID4TQa_uzw"
+      title="Capstone Code Review Video"
+      style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
+      frameborder="0"
+      allowfullscreen>
+    </iframe>
+  </div>
+</div>
+<p>
+If the video does not load, you can view it here:
+<a href="https://www.youtube.com/watch?v=nID4TQa_uzw" target="_blank">Watch on YouTube</a>
+</p>
+
+
+
 <p style="text-align: left; font-size: 16px;">
   <a href="/artifact1.html">Artifact One</a> |
   <a href="/artifact2.html">Artifact Two</a> |
