@@ -26,9 +26,7 @@ title: Artifacts
 <p>
 If the video does not load, you can view it here:
 <a href="https://www.youtube.com/watch?v=nID4TQa_uzw" target="_blank">Watch on YouTube</a>
-</p>
-
-
+</p>>
 
 <p style="text-align: left; font-size: 16px;">
   <a href="/artifact1.html">Artifact One</a> |
