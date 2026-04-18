@@ -18,7 +18,7 @@ title: Artifacts
 
 <h3>Capstone Code Review</h3>
 <p style="font-size: 14px;">
-  Overview of enhancements, design decisions, and project outcomes.
+  Overview of orginal code and planned enhancements.
 </p>
 <div style="width: 70%; min-width: 320px; margin: 20px 0 30px 0;">
   <div style="position: relative; padding-bottom: 56.25%; height: 0;">
