@@ -9,8 +9,6 @@ title: Laura Malone
   <a href="/contact.html">Contact</a>
 </p>>
 
-### Projects
-
 <table style="width: 100%; border: none;">
   <tr>
     <td style="width: 50%; vertical-align: middle; padding-right: 15px; border: none;">
