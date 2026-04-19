@@ -12,14 +12,17 @@ title: Laura Malone
 <div style="display: flex; align-items: flex-start; gap: 20px;">
 
   <!-- Video (Left) -->
-  <div style="flex: 1;">
-    <iframe width="100%" height="315"
+<div style="flex: 1;">
+  <div style="position: relative; width: 100%; padding-bottom: 56.25%; height: 0;">
+    <iframe
       src="https://www.youtube.com/embed/87jaRy3zK5A"
+      style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
       frameborder="0"
       allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
       allowfullscreen>
     </iframe>
   </div>
+</div>
 
   <!-- Description (Right) -->
   <div style="flex: 1;">
