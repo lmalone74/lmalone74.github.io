@@ -1,4 +1,3 @@
-
 ---
 title: Artifacts
 ---
@@ -11,6 +10,7 @@ title: Artifacts
 </p>>
 
 <p style="text-align: left; font-size: 16px;">
+  <a href="/artifactshome.html">Code Review</a> |
   <a href="/artifact1.html">Artifact One</a> |
   <a href="/artifact2.html">Artifact Two</a> |
   <a href="/artifact3.html">Artifact Three</a>
