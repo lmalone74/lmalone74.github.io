@@ -20,7 +20,7 @@ title: Artifacts
 <p style="font-size: 14px;">
   Overview of orginal code and planned enhancements.
 </p>
-<div style="width: 70%; min-width: 320px; margin: 20px 0 30px 0;">
+<div style="width: 100%; min-width: 320px; margin: 20px 0 30px 0;">
   <div style="position: relative; padding-bottom: 56.25%; height: 0;">
     <iframe src="https://www.youtube.com/embed/nID4TQa_uzw"
       title="Capstone Code Review Video"
