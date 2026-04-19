@@ -13,7 +13,7 @@ title: Laura Malone
 
 <table style="width: 100%; border: none;">
   <tr>
-    <td style="width: 50%; vertical-align: top; padding-right: 15px; border: none;">
+    <td style="width: 50%; vertical-align: middle; padding-right: 15px; border: none;">
 
   <div style="position: relative; width: 100%; padding-bottom: 56.25%; height: 0;">
         <iframe
@@ -31,7 +31,7 @@ title: Laura Malone
 
   </td>
 
-  <td style="width: 50%; vertical-align: top; padding-left: 15px; border: none;">
+  <td style="width: 50%; vertical-align: middle; padding-left: 15px; border: none;">
       <h3>AWS Cloud Development Presentation</h3>
       <p>
         This presentation provides an overview of cloud-based application development using AWS, including serverless architecture, API Gateway, Lambda functions, and DynamoDB integration. It highlights how cloud technologies support scalability, modular design, and efficient resource management. The project demonstrates practical implementation of these services along with key considerations such as security roles, permissions, and real-world deployment challenges.
