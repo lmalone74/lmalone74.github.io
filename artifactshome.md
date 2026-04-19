@@ -8,7 +8,6 @@ title: Artifacts
   <a href="/projects.html">Projects</a> |
   <a href="/contact.html">Contact</a>
 </p>>
-
 <p style="text-align: left; font-size: 16px;">
   <a href="/artifactshome.html">Code Review</a> |
   <a href="/artifact1.html">Artifact One</a> |
