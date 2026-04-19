@@ -17,13 +17,11 @@ title: Artifacts
 </p>>
 
 <p>
-This section presents the key artifacts developed and enhanced throughout my computer science program. The following code review video provides an overview of the original implementations, the improvements made, and the technical skills demonstrated across the project.
+This section presents the key artifacts developed throughout my computer science degree program. The following code review video provides an overview of the original implementations and discusses the planned enhancements that guided the improvements made later in the project.
 </p>
 
 ## Capstone Code Review
-<p style="font-size: 14px;">
-  Overview of original code and planned enhancements.
-</p>
+
 <div style="width: 100%; min-width: 320px; margin: 20px 0 30px 0;">
   <div style="position: relative; padding-bottom: 56.25%; height: 0;">
     <iframe src="https://www.youtube.com/embed/nID4TQa_uzw"
