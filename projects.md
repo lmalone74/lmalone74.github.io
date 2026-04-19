@@ -9,7 +9,7 @@ title: Laura Malone
   <a href="/contact.html">Contact</a>
 </p>>
 
-# Projects
+### Projects
 
 <table style="width: 100%; border: none;">
   <tr>
