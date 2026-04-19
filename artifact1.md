@@ -29,7 +29,7 @@ For this artifact, I selected the Farkle game developed in IT 312 (2025). The or
 I chose this artifact because it demonstrates my ability to design and extend a complete application using object-oriented principles, while also transitioning an existing program into a more modern and user-friendly format. Although the original version functioned correctly, it relied entirely on console input and output, which limited usability. The enhancement focused on converting the program into a Windows GUI application, allowing users to interact with the game visually. This required separating the user interface from the core game logic and adapting existing functionality to work within an event-driven environment, which in turn required rethinking how game state was managed, as the original implementation relied on sequential console input while the GUI version required event-driven updates and persistent state tracking. Additional improvements included refining scoring logic, preventing invalid actions such as selecting non-scoring dice, and improving overall gameplay flow. These changes demonstrate my ability to extend an existing application while improving usability, enforcing game rules more reliably, and strengthening overall system behavior. As part of my preparation for the enchancement I created the wire frame below:
 
 <div style="text-align: center; margin: 20px 0;">
-  <img src="assets/images/farkle_wireframe.png" 
+  <img src="assets/images/farkleWireFrame.png" 
        alt="Farkle GUI wireframe" 
        style="max-width: 100%; height: auto;">
   <p style="font-size: 14px; color: gray; margin-top: 5px;">
