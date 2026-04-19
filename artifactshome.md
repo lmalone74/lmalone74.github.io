@@ -8,9 +8,9 @@ title: Artifacts
   <a href="/projects.html">Projects</a> |
   <a href="/contact.html">Contact</a>
 </p>>
-<p style="font-size: 13px; color: #777; margin-bottom: 15px;">
-  <strong>Artifacts:</strong>
-  <a href="/artifactshome.html">Code Review</a> |
+<p style="font-size: 13px; color: #666;">
+  <strong style="color:#444;">Artifacts:</strong>
+  <a href="#code-review">Code Review</a> |
   <a href="/artifact1.html">Artifact One</a> |
   <a href="/artifact2.html">Artifact Two</a> |
   <a href="/artifact3.html">Artifact Three</a>
