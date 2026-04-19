@@ -24,6 +24,6 @@ title: Laura Malone
   <div style="flex: 1;">
     <h3>AWS Cloud Presentaion CS-470</h3>
     <p>
-     This presentation explores a cloud-based application using AWS services such as Lambda, API Gateway, and DynamoDB. It focuses on serverless architecture, scalability, and how different components connect to create a functional backend. I also cover security considerations, role management, and some of the challenges encountered during development.
+    This presentation provides an overview of cloud-based application development using AWS, including serverless architecture, API Gateway, Lambda functions, and DynamoDB integration. It highlights how cloud technologies support scalability, modular design, and efficient resource management. The project demonstrates practical implementation of these services along with key considerations such as security roles, permissions, and real-world deployment challenges.
     </p>
   </div>
