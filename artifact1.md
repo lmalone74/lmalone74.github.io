@@ -31,10 +31,10 @@ I chose this artifact because it demonstrates my ability to design and extend a 
 <div style="text-align: center; margin: 20px 0;">
   <img src="assets/images/farkleWireFrame.png" 
        alt="Farkle GUI wireframe" 
-       style="max-width: 100%; height: auto;">
-  <p style="font-size: 14px; color: gray; margin-top: 5px;">
-    Initial GUI wireframe used during planning
-  </p>
+       style="max-width: 100%; height: auto; border-radius: 4px;">
+ <p style="font-size: 14px; color: gray; margin-top: 10px;">
+  Initial GUI wireframe used during planning
+</p>
 </div>
 
 Through this process, I developed a stronger understanding of how application architecture impacts flexibility and maintainability, particularly when transitioning from a linear console-based design to an event-driven GUI environment. One of the main challenges was removing the original input and output loops and restructuring the program to work within a GUI framework. This required significant testing to ensure that game rules were enforced correctly and that new bugs were not introduced during the transition. I also recognized that better initial planning, such as creating more complete wireframes, would have improved development efficiency.Feedback and testing helped identify issues in scoring and game flow, leading to a more stable and user-friendly final version. A key challenge I encountered was ensuring that scoring rules were enforced correctly in the new interface. During testing, I identified issues such as allowing the same dice to be scored multiple times or selecting non-scoring dice, which required refining validation logic and improving state tracking.
