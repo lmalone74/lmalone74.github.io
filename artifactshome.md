@@ -16,7 +16,7 @@ title: Artifacts
   <a href="/artifact3.html">Artifact Three</a>
 </p>>
 
-<h3>Capstone Code Review</h3>
+## Capstone Code Review
 <p style="font-size: 14px;">
   Overview of orginal code and planned enhancements.
 </p>
