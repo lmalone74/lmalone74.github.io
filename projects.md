@@ -14,7 +14,7 @@ title: Laura Malone
   <!-- Video (Left) -->
   <div style="flex: 1;">
     <iframe width="100%" height="315"
-      src="https://youtu.be/87jaRy3zK5A"
+      src="https://www.youtube.com/watch?v=87jaRy3zK5A"
       frameborder="0"
       allowfullscreen>
     </iframe>
