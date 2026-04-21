@@ -61,7 +61,7 @@ title: Laura Malone
   <td style="width: 50%; vertical-align: middle; padding-left: 15px; border: none;">
       <h3>GAM-312 Unreal BP and C++ Code and Game Review</h3>
       <p>
-       For GAM-312 at SNHU we were asked to create one level of a survival game, as we were not required to create all of our own assets, I did take advantage of items I have already got free or that are offer free in the FAB Store, which allowed me to really explore the game mechanics.
+       For GAM-312 at SNHU we were asked to create one level of a survival game, as we were not required to create all of our own assets, I did take advantage of the FAB Store, which allowed me to really explore the game mechanics more than 3d modelling.
       </p>
     </td>
   </tr>
